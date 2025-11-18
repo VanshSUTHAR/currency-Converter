@@ -1,6 +1,0 @@
-Date:18/11/2025
-TASK:- Built a Currency Converter component in React.
-       Used useState and useEffect hooks for state and API handling.
-       Fetched exchange rates from a backend (http://localhost:5000/rates).
-       Implemented conversion logic with validation and dynamic dropdowns.
-       Styled the UI with a custom CurrencyConverter.css file.
