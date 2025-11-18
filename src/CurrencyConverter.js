@@ -68,4 +68,4 @@ const CurrencyConverter = () => {
   )
 }
 
-export default CurrencyConverter
+export default CurrencyConverter;

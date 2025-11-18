@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# currency-Converter
+A React component that fetches currency exchange rates from a backend API (http://localhost:5000/rates).  Allows users to input an amount, select source and target currencies, and perform conversion.  Displays the converted result or validation messages if input or rates are invalid.
+>>>>>>> 8837a233e26a2c8f81fcee94a435d3334fc0c63f
