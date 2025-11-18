@@ -1,0 +1,82 @@
+.main {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 35px;
+  background:lightblue;
+  border-radius: 12px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+h2 {
+  border-radius: 12px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  font-size: xx-large;
+  margin-bottom: 29px;
+  color: #333;
+  font-weight: 700;
+  background-color: antiquewhite;
+}
+.amount{
+  margin: 15px 0;
+  text-align: left;
+}
+.fromcurrency{
+  margin: 15px 0;
+  text-align: left;
+}
+.toCurrency {
+  margin: 15px 0;
+  text-align: left;
+}
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: #444;
+}
+input{
+  width: 94%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: border-color 0.3s ease;
+}
+select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: border-color 0.3s ease;
+}
+
+input:focus{    
+  border-color: #007bff;
+  outline: none;
+}
+select:focus {
+  border-color: #007bff;
+  outline: none;
+}
+button {
+  margin-top: 5px;
+  padding: 12px 20px;
+  background: lightgoldenrodyellow;
+  color: black;
+  border: none;
+  border-radius: 6px;
+  font-size: 15px;
+  cursor: pointer;
+}
+button:hover {
+  background:lightsalmon;
+}
+h3 {
+  color: #222;
+  font-weight: normal;
+  background: #e9ecef;
+  padding: 20px;
+  border-radius: 6px;
+}
