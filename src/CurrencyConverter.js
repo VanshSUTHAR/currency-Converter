@@ -32,7 +32,7 @@ const CurrencyConverter = () => {
 
   return (
     <div className='main'>
-      <h2>Currency Converter</h2>
+      <h2>Currency</h2>
 
       <div className='amount'>
         <label>Amount:</label>
